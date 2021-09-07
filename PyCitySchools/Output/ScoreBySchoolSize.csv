@@ -1,0 +1,4 @@
+School Size,Average Math Score,Average Reading Score,% Passing Math,% Passing Reading,% Overall Passing
+Small (<1000),83.82,83.93,93.55,96.1,89.88
+Medium (1000-2000),83.37,83.86,93.6,96.79,90.62
+Large (2000-5000),77.75,81.34,69.96,82.77,58.29
